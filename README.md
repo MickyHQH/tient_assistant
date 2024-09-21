@@ -2,11 +2,10 @@
 Ứng dụng mô phỏng chat bot đơn giản
 
 ## Technology:
-- Language: Kotlin (Jecpack Compose) <br/>
+- Language: Kotlin (Jetpack Compose) <br/>
 
 ## Tính năng:
 - Thực hiện các bước theo những chỉ dẫn được hiển thị
-:<br/>
 
 ## Demo
 
